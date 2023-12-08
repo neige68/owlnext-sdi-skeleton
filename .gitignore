@@ -1,0 +1,10 @@
+# .gitignore
+/build*/
+/html/
+*~
+*.bak
+.\#*
+\#*
+TAGS
+files.txt
+*.aps
